@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-alx
+# Solutions to tasks on Python - Input/Output
